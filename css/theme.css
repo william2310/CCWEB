@@ -1,0 +1,360 @@
+/*-----------------------------------------------------------------------------------*/
+/*    1. Dark green theme
+/*-----------------------------------------------------------------------------------*/
+
+
+body.dark-green-theme .logo h2 a {
+  background-image: url("../img/logos/logo-bg-dark-green.png");
+}
+
+body.dark-green-theme a.readmore,
+body.dark-green-theme .portfolio-links ul li a,
+body.dark-green-theme .mainmenu ul li:hover a,
+body.dark-green-theme .mainmenu ul li.current a,
+body.dark-green-theme .single-feature:hover i,
+body.dark-green-theme .blog-title a:hover,
+body.dark-green-theme .single-info i,
+body.dark-green-theme .preloader-content p,
+body.dark-green-theme .related-works a:hover,
+body.dark-green-theme .categories a:hover,
+body.dark-green-theme .post_navigation a,
+body.dark-green-theme .nav-tabs li a,
+body.dark-green-theme .sidebar-post span a,
+body.dark-green-theme .post-nav-info ul li a:hover { color: #16A085 }
+
+body.dark-green-theme .demo-panel-open, 
+body.dark-green-theme .demo-panel-close,
+body.dark-green-theme a.btn-bordered:hover,
+body.dark-green-theme .single-service,
+body.dark-green-theme .services-icon,
+body.dark-green-theme h2.portfolio-title:before,
+body.dark-green-theme .grid-item-on-hover span,
+body.dark-green-theme .testimonial-icon,
+body.dark-green-theme .testimonial-title:before,
+body.dark-green-theme .testimonial-nav a,
+body.dark-green-theme h2.contact-title:before,
+body.dark-green-theme input[type=submit],
+body.dark-green-theme #show-map,
+body.dark-green-theme .social-footer a:hover,
+body.dark-green-theme .tags ul li a:hover,
+body.dark-green-theme .search-form button[type=submit],
+body.dark-green-theme .single-info:hover:before,
+body.dark-green-theme .overlay.default,
+body.dark-green-theme .pricing-header h2:before,
+body.dark-green-theme .featured .pricing-header h2,
+body.dark-green-theme .featured .pricing-footer a.btn-filled { background-color: #16A085 }
+
+body.dark-green-theme a.btn-bordered:hover,
+body.dark-green-theme ul#filters li a.selected,
+body.dark-green-theme ul#filters li a:hover,
+body.dark-green-theme .author-content h2,
+body.dark-green-theme .social-footer a:hover { border-color: #16A085 }
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*    2. Light green theme
+/*-----------------------------------------------------------------------------------*/
+
+body.light-green-theme .logo h2 a {
+  background-image: url("../img/logos/logo-bg-light-green.png");
+}
+
+body.light-green-theme a.readmore,
+body.light-green-theme .portfolio-links ul li a,
+body.light-green-theme .mainmenu ul li:hover a,
+body.light-green-theme .mainmenu ul li.current a,
+body.light-green-theme .single-feature:hover i,
+body.light-green-theme .blog-title a:hover,
+body.light-green-theme .single-info i,
+body.light-green-theme .preloader-content p,
+body.light-green-theme .related-works a:hover,
+body.light-green-theme .categories a:hover,
+body.light-green-theme .post_navigation a,
+body.light-green-theme .nav-tabs li a,
+body.light-green-theme .sidebar-post span a,
+body.light-green-theme .post-nav-info ul li a:hover { color: #27AE60 }
+
+body.light-green-theme .demo-panel-open, 
+body.light-green-theme .demo-panel-close,
+body.light-green-theme a.btn-bordered:hover,
+body.light-green-theme .single-service,
+body.light-green-theme .services-icon,
+body.light-green-theme h2.portfolio-title:before,
+body.light-green-theme .grid-item-on-hover span,
+body.light-green-theme .testimonial-icon,
+body.light-green-theme .testimonial-title:before,
+body.light-green-theme .testimonial-nav a,
+body.light-green-theme h2.contact-title:before,
+body.light-green-theme input[type=submit],
+body.light-green-theme #show-map,
+body.light-green-theme .social-footer a:hover,
+body.light-green-theme .tags ul li a:hover,
+body.light-green-theme .search-form button[type=submit],
+body.light-green-theme .single-info:hover:before,
+body.light-green-theme .overlay.default,
+body.light-green-theme .pricing-header h2:before,
+body.light-green-theme .featured .pricing-header h2,
+body.light-green-theme .featured .pricing-footer a.btn-filled { background-color: #27AE60 }
+
+body.light-green-theme a.btn-bordered:hover,
+body.light-green-theme ul#filters li a.selected,
+body.light-green-theme ul#filters li a:hover,
+body.light-green-theme .author-content h2,
+body.light-green-theme .social-footer a:hover { border-color: #27AE60 }
+
+/*-----------------------------------------------------------------------------------*/
+/*    3. Sky theme
+/*-----------------------------------------------------------------------------------*/
+
+body.sky-theme .logo h2 a {
+  background-image: url("../img/logos/logo-bg-sky.png");
+}
+
+body.sky-theme a.readmore,
+body.sky-theme .portfolio-links ul li a,
+body.sky-theme .mainmenu ul li:hover a,
+body.sky-theme .mainmenu ul li.current a,
+body.sky-theme .single-feature:hover i,
+body.sky-theme .blog-title a:hover,
+body.sky-theme .single-info i,
+body.sky-theme .preloader-content p,
+body.sky-theme .related-works a:hover,
+body.sky-theme .categories a:hover,
+body.sky-theme .post_navigation a,
+body.sky-theme .nav-tabs li a,
+body.sky-theme .sidebar-post span a,
+body.sky-theme .post-nav-info ul li a:hover { color: #2B85C1 }
+
+body.sky-theme .demo-panel-open, 
+body.sky-theme .demo-panel-close,
+body.sky-theme a.btn-bordered:hover,
+body.sky-theme .single-service,
+body.sky-theme .services-icon,
+body.sky-theme h2.portfolio-title:before,
+body.sky-theme .grid-item-on-hover span,
+body.sky-theme .testimonial-icon,
+body.sky-theme .testimonial-title:before,
+body.sky-theme .testimonial-nav a,
+body.sky-theme h2.contact-title:before,
+body.sky-theme input[type=submit],
+body.sky-theme #show-map,
+body.sky-theme .social-footer a:hover,
+body.sky-theme .tags ul li a:hover,
+body.sky-theme .search-form button[type=submit],
+body.sky-theme .single-info:hover:before,
+body.sky-theme .overlay.default,
+body.sky-theme .pricing-header h2:before,
+body.sky-theme .featured .pricing-header h2,
+body.sky-theme .featured .pricing-footer a.btn-filled { background-color: #2B85C1 }
+
+body.sky-theme a.btn-bordered:hover,
+body.sky-theme ul#filters li a.selected,
+body.sky-theme ul#filters li a:hover,
+body.sky-theme .author-content h2,
+body.sky-theme .social-footer a:hover { border-color: #2B85C1 }
+
+/*-----------------------------------------------------------------------------------*/
+/*    4. Magenta theme
+/*-----------------------------------------------------------------------------------*/
+
+body.magenta-theme .logo h2 a {
+  background-image: url("../img/logos/logo-bg-magenta.png");
+}
+
+body.magenta-theme a.readmore,
+body.magenta-theme .portfolio-links ul li a,
+body.magenta-theme .mainmenu ul li:hover a,
+body.magenta-theme .mainmenu ul li.current a,
+body.magenta-theme .single-feature:hover i,
+body.magenta-theme .blog-title a:hover,
+body.magenta-theme .single-info i,
+body.magenta-theme .preloader-content p,
+body.magenta-theme .related-works a:hover,
+body.magenta-theme .categories a:hover,
+body.magenta-theme .post_navigation a,
+body.magenta-theme .nav-tabs li a,
+body.magenta-theme .sidebar-post span a,
+body.magenta-theme .post-nav-info ul li a:hover { color: #8E44AD }
+
+body.magenta-theme .demo-panel-open, 
+body.magenta-theme .demo-panel-close,
+body.magenta-theme a.btn-bordered:hover,
+body.magenta-theme .single-service,
+body.magenta-theme .services-icon,
+body.magenta-theme h2.portfolio-title:before,
+body.magenta-theme .grid-item-on-hover span,
+body.magenta-theme .testimonial-icon,
+body.magenta-theme .testimonial-title:before,
+body.magenta-theme .testimonial-nav a,
+body.magenta-theme h2.contact-title:before,
+body.magenta-theme input[type=submit],
+body.magenta-theme #show-map,
+body.magenta-theme .social-footer a:hover,
+body.magenta-theme .tags ul li a:hover,
+body.magenta-theme .search-form button[type=submit],
+body.magenta-theme .single-info:hover:before,
+body.magenta-theme .overlay.default,
+body.magenta-theme .pricing-header h2:before,
+body.magenta-theme .featured .pricing-header h2,
+body.magenta-theme .featured .pricing-footer a.btn-filled { background-color: #8E44AD }
+
+body.magenta-theme a.btn-bordered:hover,
+body.magenta-theme ul#filters li a.selected,
+body.magenta-theme ul#filters li a:hover,
+body.magenta-theme .author-content h2,
+body.magenta-theme .social-footer a:hover { border-color: #8E44AD }
+
+/*-----------------------------------------------------------------------------------*/
+/*    5. Dark Night theme
+/*-----------------------------------------------------------------------------------*/
+
+body.dark-theme .logo h2 a {
+  background-image: url("../img/logos/logo-bg-dark.png");
+}
+
+body.dark-theme a.readmore,
+body.dark-theme .portfolio-links ul li a,
+body.dark-theme .mainmenu ul li:hover a,
+body.dark-theme .mainmenu ul li.current a,
+body.dark-theme .single-feature:hover i,
+body.dark-theme .blog-title a:hover,
+body.dark-theme .single-info i,
+body.dark-theme .preloader-content p,
+body.dark-theme .related-works a:hover,
+body.dark-theme .categories a:hover,
+body.dark-theme .post_navigation a,
+body.dark-theme .nav-tabs li a,
+body.dark-theme .sidebar-post span a,
+body.dark-theme .post-nav-info ul li a:hover { color: #2C3E50 }
+
+body.dark-theme .demo-panel-open, 
+body.dark-theme .demo-panel-close,
+body.dark-theme a.btn-bordered:hover,
+body.dark-theme .single-service,
+body.dark-theme .services-icon,
+body.dark-theme h2.portfolio-title:before,
+body.dark-theme .grid-item-on-hover span,
+body.dark-theme .testimonial-icon,
+body.dark-theme .testimonial-title:before,
+body.dark-theme .testimonial-nav a,
+body.dark-theme h2.contact-title:before,
+body.dark-theme input[type=submit],
+body.dark-theme #show-map,
+body.dark-theme .social-footer a:hover,
+body.dark-theme .tags ul li a:hover,
+body.dark-theme .search-form button[type=submit],
+body.dark-theme .single-info:hover:before,
+body.dark-theme .overlay.default,
+body.dark-theme .pricing-header h2:before,
+body.dark-theme .featured .pricing-header h2,
+body.dark-theme .featured .pricing-footer a.btn-filled { background-color: #2C3E50 }
+
+body.dark-theme a.btn-bordered:hover,
+body.dark-theme ul#filters li a.selected,
+body.dark-theme ul#filters li a:hover,
+body.dark-theme .author-content h2,
+body.dark-theme .social-footer a:hover { border-color: #2C3E50 }
+
+/*-----------------------------------------------------------------------------------*/
+/*    6. Yellow theme
+/*-----------------------------------------------------------------------------------*/
+
+body.yellow-theme .logo h2 a {
+  background-image: url("../img/logos/logo-bg-yellow.png");
+}
+
+body.yellow-theme a.readmore,
+body.yellow-theme .portfolio-links ul li a,
+body.yellow-theme .mainmenu ul li:hover a,
+body.yellow-theme .mainmenu ul li.current a,
+body.yellow-theme .single-feature:hover i,
+body.yellow-theme .blog-title a:hover,
+body.yellow-theme .single-info i,
+body.yellow-theme .preloader-content p,
+body.yellow-theme .related-works a:hover,
+body.yellow-theme .categories a:hover,
+body.yellow-theme .post_navigation a,
+body.yellow-theme .nav-tabs li a,
+body.yellow-theme .sidebar-post span a,
+body.yellow-theme .post-nav-info ul li a:hover { color: #F1C40F }
+
+body.yellow-theme .demo-panel-open, 
+body.yellow-theme .demo-panel-close,
+body.yellow-theme a.btn-bordered:hover,
+body.yellow-theme .single-service,
+body.yellow-theme .services-icon,
+body.yellow-theme h2.portfolio-title:before,
+body.yellow-theme .grid-item-on-hover span,
+body.yellow-theme .testimonial-icon,
+body.yellow-theme .testimonial-title:before,
+body.yellow-theme .testimonial-nav a,
+body.yellow-theme h2.contact-title:before,
+body.yellow-theme input[type=submit],
+body.yellow-theme #show-map,
+body.yellow-theme .social-footer a:hover,
+body.yellow-theme .tags ul li a:hover,
+body.yellow-theme .search-form button[type=submit],
+body.yellow-theme .single-info:hover:before,
+body.yellow-theme .overlay.default,
+body.yellow-theme .pricing-header h2:before,
+body.yellow-theme .featured .pricing-header h2,
+body.yellow-theme .featured .pricing-footer a.btn-filled { background-color: #F1C40F }
+
+body.yellow-theme a.btn-bordered:hover,
+body.yellow-theme ul#filters li a.selected,
+body.yellow-theme ul#filters li a:hover,
+body.yellow-theme .author-content h2,
+body.yellow-theme .social-footer a:hover { border-color: #F1C40F }
+
+/*-----------------------------------------------------------------------------------*/
+/*    7. Orange theme
+/*-----------------------------------------------------------------------------------*/
+
+body.orange-theme .logo h2 a {
+  background-image: url("../img/logos/logo-bg-orange.png");
+}
+
+body.orange-theme a.readmore,
+body.orange-theme .portfolio-links ul li a,
+body.orange-theme .mainmenu ul li:hover a,
+body.orange-theme .mainmenu ul li.current a,
+body.orange-theme .single-feature:hover i,
+body.orange-theme .blog-title a:hover,
+body.orange-theme .single-info i,
+body.orange-theme .preloader-content p,
+body.orange-theme .related-works a:hover,
+body.orange-theme .categories a:hover,
+body.orange-theme .post_navigation a,
+body.orange-theme .nav-tabs li a,
+body.orange-theme .sidebar-post span a,
+body.orange-theme .post-nav-info ul li a:hover { color: #E67E22 }
+
+body.orange-theme .demo-panel-open, 
+body.orange-theme .demo-panel-close,
+body.orange-theme a.btn-bordered:hover,
+body.orange-theme .single-service,
+body.orange-theme .services-icon,
+body.orange-theme h2.portfolio-title:before,
+body.orange-theme .grid-item-on-hover span,
+body.orange-theme .testimonial-icon,
+body.orange-theme .testimonial-title:before,
+body.orange-theme .testimonial-nav a,
+body.orange-theme h2.contact-title:before,
+body.orange-theme input[type=submit],
+body.orange-theme #show-map,
+body.orange-theme .social-footer a:hover,
+body.orange-theme .tags ul li a:hover,
+body.orange-theme .search-form button[type=submit],
+body.orange-theme .single-info:hover:before,
+body.orange-theme .overlay.default,
+body.orange-theme .pricing-header h2:before,
+body.orange-theme .featured .pricing-header h2,
+body.orange-theme .featured .pricing-footer a.btn-filled { background-color: #E67E22 }
+
+body.orange-theme a.btn-bordered:hover,
+body.orange-theme ul#filters li a.selected,
+body.orange-theme ul#filters li a:hover,
+body.orange-theme .author-content h2,
+body.orange-theme .social-footer a:hover { border-color: #E67E22 }
+

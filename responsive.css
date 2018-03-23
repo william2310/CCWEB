@@ -1,0 +1,183 @@
+@media only screen and (min-width: 992px) and (max-width: 1199px) { 
+    .mainmenu ul li a {
+        font-size: 14px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .single-service { width: 468px }
+    .single-pricing {
+        padding: 15px;
+        width: 303px;
+    }
+    .single-pricing.featured { width: 333px }
+    .testimonial-title {
+        top: 35px;
+        width: 470px;
+    }
+    .author-content {
+        font-size: 17px;
+        line-height: 30px;
+        margin-top: 170px;
+    }
+    .author-content h2 {
+        margin-top: 30px;
+        padding-bottom: 15px;
+    }
+    .testimonial-nav { width: 470px }
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    .is-sticky .header {
+        position: relative!important;
+        padding: 20px 0 0;
+        background: none;
+    }
+    .logo { text-align: center }
+    .mainmenu ul li a {
+        font-size: 14px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .nav.navbar-nav.navbar-right { width: 100% }
+    .slide-text h2 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .slide-text { font-size: 15px }
+    a.btn-bordered {
+        font-size: 16px;
+        padding: 8px 20px;
+    }
+    .section-padding { padding: 50px 0 }
+    .section-title h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .single-service { width: 100% }
+    .single-pricing {
+        padding: 10px;
+        width: 230px;
+    }
+    .single-pricing.featured { width: 260px }
+    .pricing-content ul { font-size: 15px }
+    .featured .pricing-content ul { font-size: 16px }
+    .featured .pricing-content ul li { line-height: 32px }
+    .testimonial-title {
+        margin-bottom: 40px;
+        margin-top: 50px;
+        position: relative;
+        top: inherit;
+        width: auto;
+    }
+    .author-content {
+        font-size: 18px;
+        line-height: 30px;
+        margin-top: 0;
+    }
+    .author-content h2 {
+        letter-spacing: 0;
+        margin-top: 34px;
+        padding-bottom: 20px;
+    }
+    .testimonial-nav { width: 345px }
+    .blog-headding {
+        font-size: 18px;
+        padding: 80px 0 30px;
+    }
+    .portfolio-links { margin-bottom: 40px }
+    .page-title { padding: 50px 0 }
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    .header { padding-top: 20px }
+    .is-sticky .header {
+        position: relative !important;
+        padding: 20px 0;
+    }
+    .logo { text-align: center }
+    .single-service {
+        width: 100%;
+        padding: 65px 30px 55px 60px;
+    }
+    .single-service i {
+        left: 3px;
+        top: 65px;
+    }
+    .single-pricing,
+    .single-pricing.featured {
+        margin-bottom: 15px;
+        width: 100%;
+        margin-top: 0;
+    }
+    .testimonial-title {
+        margin-bottom: 40px;
+        margin-top: 50px;
+        position: relative;
+        top: inherit;
+        width: auto;
+    }
+    .author-content {
+        font-size: 16px;
+        line-height: 25px;
+        margin-top: 0;
+    }
+    .author-content h2 {
+        border-bottom: 0 solid;
+        border-top: 2px solid #e95255;
+        font-size: 22px;
+        letter-spacing: 0;
+        margin-top: 20px;
+        padding-bottom: 20px;
+        padding-top: 15px;
+    }
+    .testimonial-nav { width: 100% }
+    .single-testimonial { padding-bottom: 50px }
+    .copyright-text {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .social-footer { text-align: center }
+    .slide-text {
+        font-size: 14px;
+        line-height: 23px;
+        margin-left: -15px;
+        margin-top: 0;
+    }
+    .slide-text h2 {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+    .slide-text p {
+        margin-bottom: 10px;
+        display: block;
+    }
+    a.btn-bordered {
+        font-size: 14px;
+        padding: 5px 15px;
+    }
+    .section-title h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .section-padding { padding: 50px 0 }
+    .slide-nav { display: none }
+    .slide-bg,
+    .parallax-bg { background-position: inherit !important }
+    .blog-headding {
+        font-size: 18px;
+        padding: 80px 0 30px;
+    }
+    .portfolio-links { margin-bottom: 40px }
+    .blog-headding h2 { font-size: 35px }
+    .page-title { padding: 50px 0 }
+}
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    .slide-text p { display: none }
+    .slide-text { margin-top: 40px }
+}
